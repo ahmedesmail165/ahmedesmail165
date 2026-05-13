@@ -158,8 +158,8 @@ AI-powered agricultural system integrating:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ahmed-esmail-co)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)]((https://github.com/ahmedesmail165))
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:ahmedesmail.co@gmail.com)
 
 ---
