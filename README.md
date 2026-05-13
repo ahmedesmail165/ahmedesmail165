@@ -165,8 +165,7 @@ AI-powered agricultural system integrating:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ahmedesmail165&label=Profile%20Views&color=blueviolet&style=flat" /></p>
 
 <p align="center">
   ⚡ Building intelligent systems that transform ideas into real-world AI solutions.
